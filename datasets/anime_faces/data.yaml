@@ -1,0 +1,5 @@
+path: datasets/anime_faces
+train: images/train
+val: images/val
+nc: 4
+names: ['left_eye', 'right_eye', 'nose', 'mouth']
